@@ -1,0 +1,15 @@
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\bin\Debug\net7.0\AreaR.exe
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\bin\Debug\net7.0\AreaR.deps.json
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\bin\Debug\net7.0\AreaR.runtimeconfig.json
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\bin\Debug\net7.0\AreaR.dll
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\bin\Debug\net7.0\AreaR.pdb
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.csproj.AssemblyReference.cache
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.AssemblyInfoInputs.cache
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.AssemblyInfo.cs
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.csproj.CoreCompileInputs.cache
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.dll
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\refint\AreaR.dll
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.pdb
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\AreaR.genruntimeconfig.cache
+D:\Unity\GitHub\03_Rectangular_Area\AreaR\obj\Debug\net7.0\ref\AreaR.dll
